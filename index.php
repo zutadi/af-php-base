@@ -1,1 +1,1 @@
-<?php echo "Hello world!"; ?>
+<?php echo "ZUTADI MAHASISWA STMIK AKAKOM"; ?>
